@@ -1,7 +1,13 @@
-# 100 Days of Rust Language 
+# 100 Days of Rust Language
 
-| Days | Topic | Tweet Link | Resources Link |
-| ---- | ----- | ---------- | -------------- |
+## Resources 
+
+* [Rust Lang Book](https://doc.rust-lang.org/book/)
+* [Let's Get Rusty - Youtube](https://www.youtube.com/c/LetsGetRusty)
+* [Rust Patterns](https://rust-unofficial.github.io/patterns/)
+
+| Days | Topic | Tweet Link |
+| ---- | ----- | ---------- |
 | 001. | | 
 | 002. |
 | 003. |
